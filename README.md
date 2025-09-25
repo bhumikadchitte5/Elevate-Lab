@@ -14,4 +14,4 @@ Implement Basic Operations
 - Mark Task as Completed
 - Exit
 # 📌 Task 3: Web Scraper for News Headlines
-– A Python script using requests and BeautifulSoup to fetch and parse top headlines from a news website. The headlines are extracted from <h2> or title tags and saved into a .txt file. This automates data collection from public news sources.
+– A Python script using requests and BeautifulSoup to fetch and parse top headlines from a news website. The headlines are extracted from or title tags and saved into a .txt file. This automates data collection from public news sources.
