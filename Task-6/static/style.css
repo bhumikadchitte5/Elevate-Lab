@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f4f4f9;
+    color: #333;
+    box-sizing: border-box;
+
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #f0f0f0;
+}
+
+h1, h2 {
+    color: #6e6c6c;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+footer {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+footer a {
+    color: #f0f0f0;
+    text-decoration: none;
+
+}
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about-me, .skills, .education, .projects {
+    justify-content: center;
+    background: white;
+    padding: 20px;
+    width: 80%;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
