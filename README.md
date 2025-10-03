@@ -28,3 +28,9 @@ It helps in understanding the fundamentals of API development and testing using 
 -Developed a personal portfolio website using Flask, HTML, and CSS.
 -Implemented routing for home and contact pages with a working contact form.
 -Showcased personal details, projects, and contact functionality in a mini web app.
+# 📌Task 7: Image Resizer Tool
+-This task automates the resizing and format conversion of all images in a folder using Python and Pillow.
+The script reads images from an input folder, resizes them to a specified size, and saves them in a new output folder.
+# 📌Task 8: Build a Chatbot🤖 using if-else
+-This task involves creating a simple rule-based chatbot using Python.
+The chatbot takes user input in a loop and responds using predefined if-elif-else conditions, helping to understand the basic structure of NLP interactions.
